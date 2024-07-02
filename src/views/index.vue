@@ -26,7 +26,7 @@
           </el-dropdown-menu>
         </template>
       </el-dropdown>
-      <span>项目对接计划(北京分部)</span>
+      <span>项目对接计划(驻北京工作部)</span>
     </div>
     <table border="1" cellspacing="0" cellpadding="0">
       <tr>
